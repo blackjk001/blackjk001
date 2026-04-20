@@ -1,4 +1,4 @@
-## Hi there 👋
+## Обо мне 👋
 
 <!--
 **blackjk001/blackjk001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
