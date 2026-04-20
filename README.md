@@ -1,5 +1,7 @@
-## Обо мне 👋
-⚡**Студент 2-го курса направления «Программная инженерия» с хорошей математической базой и опытом разработки на Python и C#. Совмещаю навыки создания автоматизированных систем с интересом к анализу данных и машинному обучению**
+### About me...
+
+**Computer science student**
+**Interested in data analysis and ML🦿**
 <!--
 **blackjk001/blackjk001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
