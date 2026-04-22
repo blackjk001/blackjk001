@@ -1,5 +1,3 @@
-### About me...
-
 ### 👨‍💻 Computer science student 
 ### 🦿 Interested in data analysis and ML
 <!--
